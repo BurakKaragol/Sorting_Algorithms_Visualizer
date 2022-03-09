@@ -7,4 +7,5 @@ credits: [Tech With Tim](https://www.youtube.com/c/TechWithTim)
 ### Upgrades:
 - More Sorting Algorithms were added
 - You can now change color
-- 
+- Variable Data size
+- Variable speed
